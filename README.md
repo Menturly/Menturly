@@ -1,6 +1,11 @@
 # Menturly
 
-## Yassin Kortam
+##Menturs
+<p align="justify">
+Menturly connects highly motivated university students and graduates studying science, technology, math and engineering from diverse backgrounds with high school students. “Menturs” provide valuable advice to help students navigate through college applications and develop marketable skills for their future careers.
+</p>
+
+### Yassin Kortam
 
 <img src="https://github.com/Menturly/menturly.github.io/blob/main/yassin.jpeg?raw=true" style="display: block;margin-left: auto; margin-right: auto; width: 25%;">
 
@@ -18,7 +23,7 @@ Yassin Kortam graduated from high school when he was 16 to pursue lower division
 <a href="https://www.instagram.com/yassinkortam/"> Instagram</a>
 
 
-## Yusuf Sallam
+### Yusuf Sallam
 
 <img src="https://github.com/Menturly/menturly.github.io/blob/main/yusuf.jpg?raw=true" style="display: block;margin-left: auto; margin-right: auto; width: 25%;">
 
@@ -35,7 +40,7 @@ Yusuf Sallam graduated from Cupertino High School early at the age of 16 to purs
 <a href="https://github.com/Yusuf-Sallam"> Github</a>
 <a href="https://www.instagram.com/yusufmallas/"> Instagram</a>
 
-## Omer Abdelrahim
+### Omer Abdelrahim
 
 <img src="https://github.com/Menturly/menturly.github.io/blob/main/omer.jpeg?raw=true" style="display: block;margin-left: auto; margin-right: auto; width: 25%;">
 
