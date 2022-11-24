@@ -30,6 +30,11 @@ Yusuf Sallam graduated from Cupertino High School early at the age of 16 to purs
 <img src="https://github.com/Menturly/menturly.github.io/blob/main/omer.jpeg?raw=true" style="display: block;margin-left: auto; margin-right: auto; width: 25%;">
 
 <p align="justify">
+Major: Business Economics B.A. 
+Hometown: Glendale, California 
+</p>
+
+<p align="justify">
 Omer Abdelrahim is a UCLA alumnus of the class of 2022. He transferred to the school during the height of the pandemic in 2019 while working as a Respite Care Worker with high-risk individuals. There he pursued a B.A. in Business Economics and was also an active part of the Muslim Student Association (MSA).  Later, he worked at an internship with Tokio Marine, the largest property/casualty insurer in Japan. While at Tokio Marine he worked with actuaries ascertaining prices of insurance premiums in an ever changing cyberspace. Now, as a multiple time recipient of the President’s Volunteer Service Award, Omer now hopes to give back in the form of mentoring those who wish to attain higher education.
 </p>
 
