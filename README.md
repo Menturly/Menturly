@@ -4,7 +4,7 @@
 Menturly connects highly motivated university students and graduates studying science, technology, math and engineering from diverse backgrounds with high school students. “Menturs” provide valuable advice to help students navigate through college applications and develop marketable skills for their future careers.
 </p>
 
-<img src="https://i.icanvas.com/list-hero/minimalist-decor-1-WWY126.jpg" style="display: block;margin-left: auto; margin-right: auto; width: 25%;">
+<img src="https://i.icanvas.com/list-hero/minimalist-decor-1-WWY126.jpg" style="display: block;margin-left: auto; margin-right: auto; width: 100%;">
 
 # Menturs
 
