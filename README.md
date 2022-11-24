@@ -30,7 +30,7 @@ Yusuf Sallam graduated from Cupertino High School early at the age of 16 to purs
 <img src="https://github.com/Menturly/menturly.github.io/blob/main/omer.jpeg?raw=true" style="display: block;margin-left: auto; margin-right: auto; width: 25%;">
 
 <p align="justify">
-Major: Business Economics B.A. 
+Major: Business Economics B.A. <br>
 Hometown: Glendale, California 
 </p>
 
