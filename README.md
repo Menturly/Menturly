@@ -45,7 +45,7 @@ Hometown: Glendale, California <br>
 </b>
 
 <p align="justify">
-Omer Abdelrahim is a UCLA alumnus of the class of 2022. He transferred to the school during the height of the pandemic in 2019 while working as a Respite Care Worker with high-risk individuals. There he pursued a B.A. in Business Economics and was also an active part of the Muslim Student Association (MSA).  Later, he worked at an internship with Tokio Marine, the largest property/casualty insurer in Japan. While at Tokio Marine he worked with actuaries ascertaining prices of insurance premiums in an ever changing cyberspace. Now, as a multiple time recipient of the President’s Volunteer Service Award, Omer now hopes to give back in the form of mentoring those who wish to attain higher education.
+Omer Abdelrahim is a UCLA alumnus of the class of 2022. He transferred to the school during the height of the pandemic in 2020 while working as a Respite Care Worker with high-risk individuals. There he pursued a B.A. in Business Economics and was also an active part of the Muslim Student Association (MSA).  Later, he worked at an internship with Tokio Marine, the largest property/casualty insurer in Japan. While at Tokio Marine he worked with actuaries ascertaining prices of insurance premiums in an ever changing cyberspace. Now, as a multiple time recipient of the President’s Volunteer Service Award, Omer now hopes to give back in the form of mentoring those who wish to attain higher education.
 </p>
 
 <a href="https://www.linkedin.com/in/omer-abdelrahim-034591172/"> LinkedIn</a>
