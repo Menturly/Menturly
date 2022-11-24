@@ -6,7 +6,7 @@
 
 <b align="justify">
 Major: Electrical Engineering B.S. <br>
-Hometown: San Jose, California 
+Hometown: San Jose, California <br>
 </b>
 
 <p align="justify">
@@ -24,7 +24,7 @@ Yassin Kortam graduated from high school when he was 16 to pursue lower division
 
 <b align="justify">
 Major: Cognitive Science and Data Science B.S. <br>
-Hometown: Cupertino, California 
+Hometown: Cupertino, California <br>
 </b>
 
 <p align="justify">
@@ -41,7 +41,7 @@ Yusuf Sallam graduated from Cupertino High School early at the age of 16 to purs
 
 <b align="justify">
 Major: Business Economics B.A. <br>
-Hometown: Glendale, California 
+Hometown: Glendale, California <br>
 </b>
 
 <p align="justify">
