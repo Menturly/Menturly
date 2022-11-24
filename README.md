@@ -5,7 +5,7 @@
 <img src="https://github.com/Menturly/menturly.github.io/blob/main/yassin.jpeg?raw=true" style="display: block;margin-left: auto; margin-right: auto; width: 25%;">
 
 <p align="justify">
-Major: Electrical Engineering B.S. 
+Major: Electrical Engineering B.S. <br>
 Hometown: San Jose, California 
 </p>
 
@@ -23,7 +23,7 @@ Yassin Kortam graduated from high school when he was 16 to pursue lower division
 <img src="https://github.com/Menturly/menturly.github.io/blob/main/yusuf.jpg?raw=true" style="display: block;margin-left: auto; margin-right: auto; width: 25%;">
 
 <p align="justify">
-Major: Cognitive Science and Data Science B.S. 
+Major: Cognitive Science and Data Science B.S. <br>
 Hometown: Cupertino, California 
 </p>
 
