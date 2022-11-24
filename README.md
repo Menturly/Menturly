@@ -64,6 +64,6 @@ Omer Abdelrahim is a UCLA alumnus of the class of 2022. He transferred to the sc
 
 # Contact Us
 <a href="https://discord.gg/gCHGv7yRUk"> Join our Discord server</a> <br>
-<a href="mailto:menturlyservice@gmail.com"> menturlyservice@gmail.com</a>
+<a href="mailto:menturlyservice@gmail.com"> Email us</a>
 
 
