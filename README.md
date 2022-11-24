@@ -1,9 +1,10 @@
 # Menturly
 
-##Menturs
 <p align="justify">
 Menturly connects highly motivated university students and graduates studying science, technology, math and engineering from diverse backgrounds with high school students. “Menturs” provide valuable advice to help students navigate through college applications and develop marketable skills for their future careers.
 </p>
+
+## Menturs
 
 ### Yassin Kortam
 
