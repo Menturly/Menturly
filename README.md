@@ -63,7 +63,7 @@ Omer Abdelrahim is a UCLA alumnus of the class of 2022. He transferred to the sc
 <a href="https://github.com/Obdelrahim"> Github | </a>
 <a href="https://www.instagram.com/obdelrahim/"> Instagram</a>
 
-<img src="https://github.com/Menturly/menturly.github.io/blob/main/art2.jpeg?raw=true" style="display: block;margin-left: auto; margin-right: auto; width: 100%;">
+<img src="https://github.com/Menturly/menturly.github.io/blob/main/art2.jpeg?raw=true" style="display: block;margin-left: auto; margin-right: auto; width: 50%;">
 
 # Contact Us
 <a href="https://discord.gg/gCHGv7yRUk"> Join our Discord server</a> <br>
