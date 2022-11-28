@@ -10,11 +10,11 @@ Menturly connects highly motivated university students and graduates studying sc
 
 ## Yassin Kortam
 
-<img src="https://github.com/Menturly/menturly.github.io/blob/main/yassin.jpeg?raw=true" style="display: block;margin-left: auto; margin-right: auto; width: 25%;">
+<img src="https://github.com/Menturly/menturly.github.io/blob/main/yassin.jpeg?raw=true" style="display: block;margin-left: auto; margin-right: auto; width: 100%;">
 
 <b align="justify">
+University: University of California, Los Angeles (UCLA) <br>
 Major: Electrical Engineering B.S. <br>
-College: University of California, Los Angeles (UCLA) <br>
 </b>
 
 
@@ -32,8 +32,8 @@ Yassin Kortam graduated from high school when he was 16 to pursue lower division
 <img src="https://github.com/Menturly/menturly.github.io/blob/main/yusuf.jpg?raw=true" style="display: block;margin-left: auto; margin-right: auto; width: 25%;">
 
 <b align="justify">
+University: University of California, Los Angeles (UCLA) <br>
 Major: Cognitive Science and Data Science B.S. <br>
-College: University of California, Los Angeles (UCLA) <br>
 </b>
 
 
@@ -50,8 +50,8 @@ Yusuf Sallam graduated from Cupertino High School early at the age of 16 to purs
 <img src="https://github.com/Menturly/menturly.github.io/blob/main/omer.jpeg?raw=true" style="display: block;margin-left: auto; margin-right: auto; width: 25%;">
 
 <b align="justify">
+University: University of California, Los Angeles (UCLA) <br>
 Major: Business Economics B.A. <br>
-College: University of California, Los Angeles (UCLA) <br>
 </b>
 
 
@@ -63,10 +63,9 @@ Omer Abdelrahim is a UCLA alumnus of the class of 2022. He transferred to the sc
 <a href="https://github.com/Obdelrahim"> Github | </a>
 <a href="https://www.instagram.com/obdelrahim/"> Instagram</a>
 
-<img src="https://github.com/Menturly/menturly.github.io/blob/main/art2.jpeg?raw=true" style="display: block;margin-left: auto; margin-right: auto; width: 50%;">
+<img src="https://github.com/Menturly/menturly.github.io/blob/main/art2.jpeg?raw=true" style="display: block;margin-left: auto; margin-right: auto; width: 100%;">
 
 # Contact Us
-<a href="https://discord.gg/gCHGv7yRUk"> Join our Discord server</a> <br>
 <a href="mailto:menturlyservice@gmail.com"> Email us</a>
 
 
