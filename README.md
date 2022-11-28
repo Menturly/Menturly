@@ -4,13 +4,13 @@
 Menturly connects highly motivated university students and graduates studying science, technology, math and engineering from diverse backgrounds with high school students. “Menturs” provide valuable advice to help students navigate through college applications and develop marketable skills for their future careers.
 </p>
 
-<img src="https://github.com/Menturly/menturly.github.io/blob/main/art.png?raw=true" style="display: block;margin-left: auto; margin-right: auto; width: 50%;">
+<img src="https://github.com/Menturly/menturly.github.io/blob/main/art.png?raw=true" style="display: block;margin-left: auto; margin-right: auto; width: 100%;">
 
 # Menturs
 
 ## Yassin Kortam
 
-<img src="https://github.com/Menturly/menturly.github.io/blob/main/yassin.jpeg?raw=true" style="display: block;margin-left: auto; margin-right: auto; width: 100%;">
+<img src="https://github.com/Menturly/menturly.github.io/blob/main/yassin.jpeg?raw=true" style="display: block;margin-left: auto; margin-right: auto; width: 25%;">
 
 <b align="justify">
 University: University of California, Los Angeles (UCLA) <br>
