@@ -63,6 +63,25 @@ Omer Abdelrahim is a UCLA alumnus of the class of 2022. He transferred to the sc
 <a href="https://github.com/Obdelrahim"> Github | </a>
 <a href="https://www.instagram.com/obdelrahim/"> Instagram</a>
 
+## Abdullah Alnaqib
+
+<img src="https://github.com/Menturly/menturly.github.io/blob/main/abdullah.jpeg?raw=true" style="display: block;margin-left: auto; margin-right: auto; width: 25%;">
+
+<b align="justify">
+University: University of California, Los Angeles (UCLA) <br>
+Major: Biology B.S. <br>
+</b>
+
+
+<p align="justify">
+Abdullah Alnaqib is a Senior at UCLA pursuing a Bachelors of Science in Biology and plans to pursue a career in medicine. He worked in multiple different industries including business, tutoring, healthcare and marketing. As part of a leading team of healthcare, he helped develop mass testing in the midst of the pandemic through his work at Vital Medical Services. At the same time, he worked as an independent tutor to help his fellow students during a tough time in the pandemic. Now, Abdullah looks to build on the fulfilling experience that he acquired through his work of helping both patients and students.
+</p>
+
+<a href="https://www.linkedin.com/in/abdullah-alnaqib-b2413118a/"> LinkedIn | </a>
+<a href="https://www.instagram.com/abdullahalnaqib_/?next=%2F"> Instagram</a>
+
+
+
 <img src="https://github.com/Menturly/menturly.github.io/blob/main/art2.jpeg?raw=true" style="display: block;margin-left: auto; margin-right: auto; width: 100%;">
 
 # Contact Us
