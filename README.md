@@ -14,7 +14,7 @@ Menturly connects highly motivated university students and graduates studying sc
 
 <b align="justify">
 University: University of California, Los Angeles (UCLA) <br>
-Major: Electrical Engineering B.S. <br>
+Degree: Electrical Engineering B.S. <br>
 </b>
 
 
@@ -33,7 +33,7 @@ Yassin Kortam graduated from high school when he was 16 to pursue lower division
 
 <b align="justify">
 University: University of California, Los Angeles (UCLA) <br>
-Major: Cognitive Science and Data Science B.S. <br>
+Degree: Cognitive Science and Data Science B.S. <br>
 </b>
 
 
@@ -51,7 +51,7 @@ Yusuf Sallam graduated from Cupertino High School early at the age of 16 to purs
 
 <b align="justify">
 University: University of California, Los Angeles (UCLA) <br>
-Major: Business Economics B.A. <br>
+Degree: Business Economics B.A. <br>
 </b>
 
 
@@ -69,7 +69,7 @@ Omer Abdelrahim is a UCLA alumnus of the class of 2022. He transferred to the sc
 
 <b align="justify">
 University: University of California, Los Angeles (UCLA) <br>
-Major: Biology B.S. <br>
+Degree: Biology B.S. <br>
 </b>
 
 
