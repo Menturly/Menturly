@@ -8,6 +8,23 @@ Menturly connects highly motivated university students and graduates studying sc
 
 # Menturs
 
+## Bilal Malik
+
+<img src="https://github.com/Menturly/menturly.github.io/blob/main/Bilal.JPG?raw=true" style="display: block;margin-left: auto; margin-right: auto; width: 25%;">
+
+<b align="justify">
+University: University of California, Los Angeles (UCLA) <br>
+Degree: Masters in Public Health <br>
+</b>
+
+
+<p align="justify">
+Bilal Malik is a graduate student at UCLA currently pursuing his Masters of Public Health specializing in Community Health Sciences. Before UCLA, he graduated Summa Cum Laude from UCSD with a Bachelors of Science in Public Health. Having applied to colleges out of high school, community college, and for graduate school, he has extensive experience with the college application process, specifically with crafting engaging essays. His internships at different levels of health organizations have allowed him to gain invaluable skills and knowledge related to research and healthcare.
+</p>
+
+<a href="https://www.linkedin.com/in/bhmalik/"> LinkedIn | </a>
+<a href="https://www.instagram.com/bilal0405/"> Instagram</a>
+
 ## Yassin Kortam
 
 <img src="https://github.com/Menturly/menturly.github.io/blob/main/yassin.jpeg?raw=true" style="display: block;margin-left: auto; margin-right: auto; width: 25%;">
@@ -80,22 +97,6 @@ Abdullah Alnaqib is a Senior at UCLA pursuing a Bachelors of Science in Biology 
 <a href="https://www.linkedin.com/in/abdullah-alnaqib-b2413118a/"> LinkedIn | </a>
 <a href="https://www.instagram.com/abdullahalnaqib_/?next=%2F"> Instagram</a>
 
-## Bilal Malik
-
-<img src="https://github.com/Menturly/menturly.github.io/blob/main/Bilal.JPG?raw=true" style="display: block;margin-left: auto; margin-right: auto; width: 25%;">
-
-<b align="justify">
-University: University of California, Los Angeles (UCLA) <br>
-Degree: Masters in Public Health <br>
-</b>
-
-
-<p align="justify">
-Bilal Malik is a graduate student at UCLA currently pursuing his Masters of Public Health specializing in Community Health Sciences. Before UCLA, he graduated Summa Cum Laude from UCSD with a Bachelors of Science in Public Health. Having applied to colleges out of high school, community college, and for graduate school, he has extensive experience with the college application process, specifically with crafting engaging essays. His internships at different levels of health organizations have allowed him to gain invaluable skills and knowledge related to research and healthcare.
-</p>
-
-<a href="https://www.linkedin.com/in/bhmalik/"> LinkedIn | </a>
-<a href="https://www.instagram.com/bilal0405/"> Instagram</a>
 
 <img src="https://github.com/Menturly/menturly.github.io/blob/main/art2.jpeg?raw=true" style="display: block;margin-left: auto; margin-right: auto; width: 100%;">
 
